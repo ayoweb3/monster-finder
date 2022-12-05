@@ -3,7 +3,7 @@
 This document explains the process of contributing to Numbase.
 
 First of all please follow the
-[CODE_OF_CONDUCT](https://github.com/AltGophers/numbase/blob/main/CODE_OF_CONDUCT.md)
+[CODE_OF_CONDUCT](https://github.com/realisijola/crwn-clothing/blob/main/CODE_OF_CONDUCT.md)
 in all your interactions within the project.
 
 ## Before Filing an Issue

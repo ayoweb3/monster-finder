@@ -3,11 +3,11 @@ An opensource clothing website made with React
 ## Contributing
 
  To start contributing, you should read our
-[CODE_OF_CONDUCT](https://github.com/AltGophers/numbase/blob/main/CODE_OF_CONDUCT.md)
+[CODE_OF_CONDUCT](https://github.com/realisijola/crwn-clothing/blob/main/CODE_OF_CONDUCT.md)
 and adhere to them in all your interactions within the project.
 
 Next, read our  
-[contribution guide](https://github.com/AltGophers/numbase/blob/main/CONTRIBUTING.md).
+[contribution guide](https://github.com/realisijola/crwn-clothing/blob/main/CONTRIBUTING.md).
 
 ## Wallaby.js
 
